@@ -102,10 +102,6 @@
 
 * Fingerprint-based Vote Marking System for Elector Identification
   (IConSCEPT 2023)
-* Comparative Study of Neural Machine Translation Approaches for Hindi–Malayalam: Bi-LSTM Baselines,
-Word2Vec and Attention Enhancements, and mBART Transfer Learning, Vol 13 , No1 (2026)
-January-March, Language Technology, Languages Scripts Standards and the Digital Future, Informaticsstudies
-International Scholarly Journal
 
 ---
 
