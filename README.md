@@ -103,6 +103,8 @@
 * Fingerprint-based Vote Marking System for Elector Identification
   (IConSCEPT 2023)
 
+  https://ieeexplore.ieee.org/document/10170598
+
 ---
 
 ## Connect with Me
