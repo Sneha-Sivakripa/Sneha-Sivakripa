@@ -1,16 +1,117 @@
-## Hi there 👋
+# Hi, I'm Sneha
 
-<!--
-**Sneha-Sivakripa/Sneha-Sivakripa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer @ ICFOSS | NLP | Multilingual AI | Deep Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* Software Engineer at **ICFOSS (International Centre for Free and Open Source Solutions)**
+* Working on **Multilingual AI Systems & Indic NLP**
+* Building **Machine Translation, LLMs, and Speech Systems**
+* Strong focus on **low-resource languages (Malayalam & Indic languages)**
+* Love building models **from scratch → production deployment**
+
+---
+
+## What I Do
+
+* Train **Small Language Models (SLMs)** and **LLMs** for Malayalam
+* Build **custom tokenizers + BERT-based encoders** (trained on 3.5 crore sentences)
+* Develop **6×6 Multilingual NMT systems** (hi, ml, ta, kn, te, en)
+* Work on **bidirectional translation systems (Fairseq, OpenNMT)**
+* Build **Speech-to-Speech translation systems**
+* Develop **Summarization & Paraphrasing models**
+* Automate ML workflows using **MCP + n8n**
+* Deploy systems using **Docker + FastAPI + React**
+
+---
+
+## Key Projects
+
+### Multilingual NMT System (6×6)
+
+* Transformer-based architecture
+* Supports 6 Indic languages + English
+* Full pipeline: training → inference → deployment
+
+---
+
+### Bidirectional Translation Engine
+
+* Malayalam ↔ Hindi / Tamil / Kannada / Telugu / English
+* Built using **Fairseq & OpenNMT**
+* Optimized using **CTranslate for fast inference**
+
+---
+
+### Malayalam NER System
+
+* BiLSTM / Deep Learning based NER
+* BIO tagging format
+* Improved entity extraction in pipelines
+
+---
+
+### BERT-based Plagiarism Detection
+
+* Semantic similarity using embeddings
+* Detects contextual plagiarism
+
+---
+
+### Smart Assistive Glasses
+
+* AI-powered navigation system
+* Designed for visually impaired users
+
+---
+
+## Tech Stack
+
+### Languages
+
+`Python` `C` `C++` `JavaScript`
+
+### AI / ML
+
+`PyTorch` `TensorFlow` `Transformers` `LLMs`
+`Machine Translation` `Speech Translation` `Multimodal AI`
+
+### NLP
+
+`BPE` `SentencePiece` `Tokenization`
+`NER` `Summarization` `Paraphrasing`
+
+### Tools & Systems
+
+`Docker` `FastAPI` `React` `PostgreSQL`
+`Fairseq` `OpenNMT` `MCP` `n8n` `Linux` `Git`
+
+---
+
+## Achievements
+
+* Best Outgoing Student Award (M.Tech 2025)
+* Best Project Award
+* Best Office Bearer (IEEE WIE AG)
+
+---
+
+## Publications
+
+* Fingerprint-based Vote Marking System for Elector Identification
+  (IConSCEPT 2023)
+* Comparative Study of Neural Machine Translation Approaches for Hindi–Malayalam: Bi-LSTM Baselines,
+Word2Vec and Attention Enhancements, and mBART Transfer Learning, Vol 13 , No1 (2026)
+January-March, Language Technology, Languages Scripts Standards and the Digital Future, Informaticsstudies
+International Scholarly Journal
+
+---
+
+## Connect with Me
+
+* GitHub: https://github.com/SnehaSivakripa
+* LinkedIn: https://linkedin.com/in/sneha-s-19747a191
+
+---
