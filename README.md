@@ -8,7 +8,7 @@
 
 * Software Engineer at **ICFOSS (International Centre for Free and Open Source Solutions)**
 * Working on **Multilingual AI Systems & Indic NLP**
-* Building **Machine Translation, LLMs, and Speech Systems**
+* Building **Machine Translation, LLMs and other Deep Learning models**
 * Strong focus on **low-resource languages (Malayalam & Indic languages)**
 * Love building models **from scratch → production deployment**
 
